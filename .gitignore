@@ -1,0 +1,24 @@
+# Backend
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+build/
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env.local
+
+# MongoDB
+data/
+
+# Packages
+*.tar
+*.zip
